@@ -38,10 +38,17 @@ No claim can be made on the number of points awarded by the Mentors & Organisers
 
 </br>
 
+| Task             | Duration of Submission                                              | Difficulty Level      | Maximum Points    |
+| ----------------- | ------------------------------------------------------------------ | ---------------------- | ----------------- |
+| User Experience (UX) Task | 17th Dec - 21st Dec | Rookie | 10 |
+| User Interface (UI) Task - 1 | 22nd Dec - 27th Dec | Skilled | 20 |
+| Graphic Design Task | 28th Dec - 4th Jan |  Skilled | 20 |
+| User Interface (UI) Task -2 | 5th Jan - 16th Jan | Expert | 50 |
+
+
 </br>
 
 > Each task's specific folder will have a list of detailed instructions. Keep checking for updates about new task releases😉!
-> 
 
 </br>
 
