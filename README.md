@@ -67,8 +67,7 @@ Since you have scrolled this far, here are some short resources to give you an e
 - [UX Principles](https://lawsofux.com/)
 - [UI Guidlines](https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
 
-</br>
-
+</br>          
+          
 ## Our Top Contributors 💛
-
-<img src="https://contrib.rocks/image?repo=opencodeiiita/DonateASmile”/>
+<img src="https://contrib.rocks/image?repo=opencodeiiita/DonateASmile"/>
