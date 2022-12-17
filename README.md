@@ -2,6 +2,9 @@
 
 Understanding the value of UI/UX in mobile apps is crucial for designing apps. Even if your app has excellent functionality, it could still fail if you don't pay attention to the designing aspect. The functionality and UI/UX of the app must be properly balanced in order for it to be successful. Are you capable of succeeding?
 
+An app called DonateASmile is used to link charitable users😇 and those in need. It will assist the donors in aiding and providing for underprivileged kids. The needy can ask for donations and mention their requirements, and then they should be able to connect with the donors who can meet their requests. 
+For example, if an orphanage asks for 50 notebooks📚 and a donor responds that he can donate 25, the orphanage will get those 25 notebooks and will have a remaining requirement of 25 notebooks.
+
 </br>
 
 ## ✒Tech Stack:
@@ -15,22 +18,15 @@ Understanding the value of UI/UX in mobile apps is crucial for designing apps. E
 ## 🧾Common Rules:
 
 - The repository is divided into several tasks. **Each task will be opened subsequently for a limited amount of time and all the submissions have to be made within those allotted days only.** NO submission will be accepted after the allotted time ends. The details for the specific tasks and the time allotted for each can be found in their specific folders.
-- The mentors will evaluate the submissions and assign points for each specific task based on a variety of design-related factors, such as the use of design thinking, the authenticity of the idea, the submission's visual attractiveness, etc. The points will be distributed as follows:
-    
-    🥇1st Place :   Full Points
-    
-    🥈2nd Place :   0.8 * Full Points
-    
-    🥉3rd Place :   0.5 * Full Points
-    
+- The mentors will evaluate the submissions and assign points for each specific task based on a variety of design-related factors, such as the use of design thinking, the uniqueness of the idea, the submission's visual attractiveness, etc.
+- Since everyone should be awarded for their efforts, the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded Full Points🎉
+- Since the goals of these tasks are learning design rather than only earning points, any plagiarism or attempt at it will be frowned upon and will result in disqualification from OpenCode. You can always ping us with questions, and we'll be pleased to answer them, but merely duplicating other people's ideas to finish the jobs will be strongly prohibited.
 
-Since everyone should be awarded for their efforts, the rest of the participants who qualify for the **Minimum Design Criteria (MDC)** as mentioned in the respective folders of the task will be awarded 0.3 * Full Points🎉.
 
 </br>
 
 > ALL THE FINAL DECISIONS FOR THE JUDGMENT AND AWARDING OF POINTS ⚖️ BASED ON THE SUBMISSION RESIDE WITH THE MENTORS & ORGANISERS.
 No claim can be made on the number of points awarded by the Mentors & Organisers🙂.
-> 
 
 </br>
 
