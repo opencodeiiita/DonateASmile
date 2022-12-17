@@ -19,7 +19,7 @@ For example, if an orphanage asks for 50 notebooks and a donor responds that he 
 1. Think about how the flow of the app will be for an average user who has just installed this app and is opening this app for the first time. The user is assumed to be unclear with the functionalities of the app.
 2. You have to decide how the user will move through the app, what steps will he need to take and in which order, for eg. the user first might need to sign up for the app, to choose whether they want to sign in as an individual or an organization, etc. 
 3. You can also add how and on what basis the donor gets connected to the needy.
-4. Finally create your ideal user flow in a FigJam file and provide its link (in .txt file). Submit your txt files in the USER EXPERIENCE TASK folder only.
+4. Finally create your ideal user flow in a FigJam file and provide its link (in .txt file). Submit your txt files in the 'UX TASK' folder only.
 
 If you are unclear with user flow diagrams check this short video here: [https://www.youtube.com/watch?v=cvYhuowazh0](https://www.youtube.com/watch?v=cvYhuowazh0) 
 
