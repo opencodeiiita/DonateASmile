@@ -6,7 +6,7 @@ NO SUBMISSION WILL BE ACCEPTED AFTER 21st December 11:59 PM.
 This first task is based on basic understanding of User Experience and User flow. 
 
 An app called DonateASmile😊 is used to link charitable users and those in need. It will assist the donors in aiding and providing for underprivileged kids. The needy can ask for donations💸 and mention their requirements, and then they should be able to connect with the donors who can meet their requests.
-For example, if an orphanage asks for 50 notebooks and a donor responds that he can donate 25, the orphanage will get those 25 notebooks and will have a remaining requirement of 25 notebooks.
+For example, if an orphanage asks for 50 notebooks📚 and a donor responds that he can donate 25, the orphanage will get those 25 notebooks and will have a remaining requirement of 25 notebooks.
 
 > 💡 The task needs to be done in FigJam. There is no need to download FigJam because it is free to use. It is quite simple to learn and only takes around 15 minutes. If you are not sure on how to use it, check the tutorial here: [https://www.youtube.com/watch?v=RVNuArHH5WM](https://www.youtube.com/watch?v=RVNuArHH5WM)
 
