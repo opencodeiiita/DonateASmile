@@ -3,7 +3,7 @@ OPEN TO ALL.
 No need to claim this issue.
 NO SUBMISSION WILL BE ACCEPTED AFTER 20th December 11:59 PM.
 
-This first task is based on basic understanding of User Experience and User flow. 
+This first task is based on basic understanding of User Experience and User flow. **You only have to make the userflow.**
 
 An app called DonateASmile😊 is used to link charitable users and those in need. It will assist the donors in aiding and providing for underprivileged kids. The needy can ask for donations💸 and mention their requirements, and then they should be able to connect with the donors who can meet their requests.
 For example, if an orphanage asks for 50 notebooks📚 and a donor responds that he can donate 25, the orphanage will get those 25 notebooks and will have a remaining requirement of 25 notebooks.
