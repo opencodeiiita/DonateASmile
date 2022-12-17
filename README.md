@@ -3,6 +3,7 @@
 Understanding the value of UI/UX in mobile apps is crucial for designing apps. Even if your app has excellent functionality, it could still fail if you don't pay attention to the designing aspect. The functionality and UI/UX of the app must be properly balanced in order for it to be successful. Are you capable of succeeding?
 
 An app called DonateASmile is used to link charitable users😇 and those in need. It will assist the donors in aiding and providing for underprivileged kids. The needy can ask for donations and mention their requirements, and then they should be able to connect with the donors who can meet their requests. 
+</br>
 For example, if an orphanage asks for 50 notebooks📚 and a donor responds that he can donate 25, the orphanage will get those 25 notebooks and will have a remaining requirement of 25 notebooks.
 
 </br>
