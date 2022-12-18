@@ -11,7 +11,7 @@ Happy UXing contributors!
 ## Submission Guideline:
 
 - Write your views on google doc.
-- Provide the link of google docs in a .txt file 
+- Provide the link of google docs in a .txt file with your name as the file name.
 - Submit your txt files in the 'Short UX Task' folder only.
 
 ## Minimum Design Criteria (MDC)
