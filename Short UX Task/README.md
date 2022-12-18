@@ -1,3 +1,5 @@
+**OPEN TO ALL. NO NEEED TO CLAIM. NO SUBMISSION WILL BE ACCEPTED AFTER 19TH DEC 6PM.**
+ 
 While you are working on the best user flow for the DonateASmile app, here is another short task to test your thinking 🤔 as User Experience Designer!.
 The task is brief and doesn't take much time, but what it actually requires is a strong eye for seeing things from the perspective of the user.
 
