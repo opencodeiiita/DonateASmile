@@ -1,7 +1,7 @@
 # Design Reps 1✅
 
 OPEN TO ALL
-No submission will be accepted after 2th Dec 11:59 PM.
+No submission will be accepted after 25th Dec 5:59 PM.
 
 In the first rep, you have to replicate the **Home screen** of the **Youtube App**
 
